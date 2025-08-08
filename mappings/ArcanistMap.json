@@ -1043,6 +1043,18 @@
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/302803_apple",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/302801_apple_s"
+      },
+      {
+        "id": 302804,
+        "name": "智慧尽头",
+        "nameEng": "The Fruit of Wisdom",
+        "des": "智慧尽头",
+        "characterSkin": "智慧尽头",
+        "characterSkinNameEng": "The Fruit of Wisdom",
+        "skinDescription": "果实啊，你是万千问题的答案。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_302804_apple",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/302801_apple_s"
       }
     ]
   },
@@ -1969,6 +1981,18 @@
         "skinDescription": "能忍受寒冷的人收获最多。",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v1a8_305103_wnfld",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/305103_wnfld",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/305101_wennifuleide_s"
+      },
+      {
+        "id": 305104,
+        "name": "以黄金哺育",
+        "nameEng": "The Golden Nurturer",
+        "des": "以黄金哺育",
+        "characterSkin": "以黄金哺育",
+        "characterSkinNameEng": "The Golden Nurturer",
+        "skinDescription": "一千粒灿烂的黄金，落入温暖宽厚的怀抱。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_305104_wnfld",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/305104_wnfld",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/305101_wennifuleide_s"
       }
     ]
@@ -3137,6 +3161,18 @@
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a2_306503_mks",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/306503_mks",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a2_306503_mks_s"
+      },
+      {
+        "id": 306504,
+        "name": "致冥府的门扉",
+        "nameEng": "To the Gates of the Underworld",
+        "des": "致冥府的门扉",
+        "characterSkin": "致冥府的门扉",
+        "characterSkinNameEng": "To the Gates of the Underworld",
+        "skinDescription": "诗歌记得，记得一切。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_306504_mks",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/306504_makusi",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_306504_mks_s"
       }
     ]
   },
@@ -3305,6 +3341,18 @@
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a2_308703_wl",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/308703_wl",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a2_308703_wl_s"
+      },
+      {
+        "id": 308704,
+        "name": "酒色之海的女儿",
+        "nameEng": "Daughter of the Wine-Dark Sea",
+        "des": "酒色之海的女儿",
+        "characterSkin": "酒色之海的女儿",
+        "characterSkinNameEng": "Daughter of the Wine-Dark Sea",
+        "skinDescription": "浪花们聚集起来，齐唱一支被时间所遗忘的歌。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_308704_wl",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/308704_wl",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_308704_wl_s"
       }
     ]
   },
@@ -4286,6 +4334,18 @@
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a7_311602_lzl",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/311602_lzl",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a7_311601_lzl_s"
+      },
+      {
+        "id": 311603,
+        "name": "群蛇的春祭",
+        "nameEng": "Serpentine Primavera",
+        "des": "群蛇的春祭",
+        "characterSkin": "群蛇的春祭",
+        "characterSkinNameEng": "Serpentine Primavera",
+        "skinDescription": "即便连那春日本身，也在此处化为磐石。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_311603_lzl",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/311603_lzl",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_311603_lzl_s"
       }
     ]
   },
@@ -4574,6 +4634,39 @@
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_312802_kr",
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312802_kr",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v3a0_312801_kr_s"
+      }
+    ]
+  },
+  {
+    "id": 3123,
+    "name": "艾吉奥·奥迪托雷",
+    "nameEng": "Ezio Auditore",
+    "roleBirthday": "6/24",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3123.png",
+    "live2d": [
+      {
+        "id": 312301,
+        "name": "艾吉奥·奥迪托雷",
+        "nameEng": "Ezio Auditore",
+        "des": "初始皮肤",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "出于家族，出于痛苦的复仇。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312301_ajaadtl",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312301_aja",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312301_ajo_s"
+      },
+      {
+        "id": 312302,
+        "name": "艾吉奥·奥迪托雷",
+        "nameEng": "Ezio Auditore",
+        "des": "进阶皮肤",
+        "characterSkin": "信仰，于此跃下",
+        "characterSkinNameEng": "Leap of Faith",
+        "skinDescription": "出于继承，出于真正的自由。",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312302_ajaadtl",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312302_aja",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312301_ajo_s"
       }
     ]
   }

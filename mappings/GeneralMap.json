@@ -4286,5 +4286,101 @@
     "des": "",
     "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/v2a1_670405_lgbt",
     "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/670405.png"
+  },
+  {
+    "id": 640142,
+    "name": "普通小兵",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_640142_ptxb",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640142.png"
+  },
+  {
+    "id": 640143,
+    "name": "弓箭手",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_640143_gjs",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640143.png"
+  },
+  {
+    "id": 640144,
+    "name": "蹩脚刺客",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_640144_bjck",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640144.png"
+  },
+  {
+    "id": 640145,
+    "name": "酒神节路人",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_640145_jsjlr",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640145.png"
+  },
+  {
+    "id": 640219,
+    "name": "\t普通长官",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_640219_ptzg",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640219.png"
+  },
+  {
+    "id": 640220,
+    "name": "斧头兵",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_640220_ftb",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640220.png"
+  },
+  {
+    "id": 640221,
+    "name": "莱昂纳多·达芬奇",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_640221_land",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640221.png"
+  },
+  {
+    "id": 640222,
+    "name": "伪装成工匠的秩序神教刺客",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_640222_wzcgjdzxsjck",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640222.png"
+  },
+  {
+    "id": 640223,
+    "name": "秩序神教士兵",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_640223_zxsjsb",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640223.png"
+  },
+  {
+    "id": 640305,
+    "name": "阿利克西欧斯",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_640305_alkxos",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640305.png"
+  },
+  {
+    "id": 640402,
+    "name": "阿尔比诺神父",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_640402_aebtsf",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640402.png"
+  },
+  {
+    "id": 640403,
+    "name": "阿尔比诺神父",
+    "nameEng": "",
+    "des": "",
+    "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_640403_aebtsf",
+    "headIcon": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/headicon_monster/640403.png"
   }
 ]
