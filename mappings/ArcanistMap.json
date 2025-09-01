@@ -4638,6 +4638,39 @@
     ]
   },
   {
+    "id": 3122,
+    "name": "阿利克西欧斯",
+    "nameEng": "Alexios",
+    "roleBirthday": "8/7",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3122.png",
+    "live2d": [
+      {
+        "id": 312201,
+        "name": "阿利克西欧斯",
+        "nameEng": "Alexios",
+        "des": "初始皮肤",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "残酷的心，如黄金般灿烂。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312201_alkxos",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312201_alexios",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312201_alkxos_s"
+      },
+      {
+        "id": 312202,
+        "name": "阿利克西欧斯",
+        "nameEng": "Alexios",
+        "des": "进阶皮肤",
+        "characterSkin": "第二次征服",
+        "characterSkinNameEng": "Second Conquest",
+        "skinDescription": "某些人的日子注定下沉，他的日子注定上升。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312202_alkxos",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312202_alexios",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312201_alkxos_s"
+      }
+    ]
+  },
+  {
     "id": 3123,
     "name": "艾吉奥·奥迪托雷",
     "nameEng": "Ezio Auditore",
@@ -4667,6 +4700,39 @@
         "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312302_ajaadtl",
         "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312302_aja",
         "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312301_ajo_s"
+      }
+    ]
+  },
+  {
+    "id": 3124,
+    "name": "卡珊德拉",
+    "nameEng": "Kassandra",
+    "roleBirthday": "8/7",
+    "signature": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/singlebg/signature/3124.png",
+    "live2d": [
+      {
+        "id": 312401,
+        "name": "卡珊德拉",
+        "nameEng": "Kassandra",
+        "des": "初始皮肤",
+        "characterSkin": "",
+        "characterSkinNameEng": "",
+        "skinDescription": "典型的，亦非典型的斯巴达人。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312401_ksdl",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312401_ksdl",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312401_ksdl_s"
+      },
+      {
+        "id": 312402,
+        "name": "卡珊德拉",
+        "nameEng": "Kassandra",
+        "des": "进阶皮肤",
+        "characterSkin": "湛蓝而闪耀",
+        "characterSkinNameEng": "Radiant in Blue",
+        "skinDescription": "曙光照临之时，雅典娜赐予她荣光。",
+        "spine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312402_ksdl",
+        "cubism": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/live2d/roles/312402_ksdl",
+        "alternateSpine": "https://github.com/myssal/Reverse-1999-CN-Asset/tree/master/roles/s01_312401_ksdl_s"
       }
     ]
   }
